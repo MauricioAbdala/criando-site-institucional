@@ -1,0 +1,91 @@
+/* body */
+.bg-color-primary {
+    background-color: var(--color-gray-dark-2)
+}
+
+
+/* header     */
+.bg-color-secondary {
+    background-color: var(--color-grey-dark-1);
+    border-bottom: 2px solid var(--color-primary);
+}
+
+
+/* Img */
+.logo {
+    color: var(--color-gray-Ofcourse-3);
+}
+
+
+.div1 {
+    background: var(--color-gray-dark-2);
+}
+
+
+.div2 {
+    background-color: var(--color-grey-dark-1);
+}
+
+
+.div6 {
+    background: var(--color-primary);
+}
+
+
+.section1 {
+    background-color: var(--color-gray-dark-2);
+}
+
+
+.section2 {
+    background-color: var(--color-gray-dark-2);
+}
+
+
+.h1_title1,
+.h2_title2,
+.h2_title3,
+.h3_title4,
+.h3_title5,
+.h2_title6,
+.h3_title7 {
+    color: var(--color-gray-Ofcourse-3);
+}
+
+
+.text,
+.text1,
+.text2 {
+    color: var(--color-gray-Ofcourse-2);
+}
+
+
+.text7 {
+    color: var(--color-gray-Ofcourse-1);
+}
+
+.text3,
+.text4,
+.text5,
+.text6,
+.text8 {
+    color: var(--color-gray-Ofcourse-2);
+}
+
+
+.span1 {
+    color: var(--color-secondary);
+}
+
+
+
+.span2 {
+    color: var(--color-gray-Ofcourse-3);
+    background-color: var(--color-primary);
+    border:none;
+}
+
+
+footer {
+    background-color: var(--color-grey-dark-1);
+}

@@ -1,0 +1,111 @@
+body,
+h1,
+button,
+div {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+#modal__controller {
+    padding: 0;
+    width: 502px;
+    height: 430px;
+    margin-left: 37%;
+    top: 350px;
+    border: 1px solid var(--color-primary);
+    background-color: var(--color-gray-dark-2);
+}
+
+
+#modal__controller::backdrop {
+    background-color: #191c1fbd;
+}
+
+
+
+.modal__title {
+    margin-top: 25px;
+    color: var(--color-gray-Ofcourse-2);
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: var(--font-weight-title-1);
+    font-size: var( --font-size-text-2);
+    line-height: var(--line-height-text-1);
+}
+
+
+#modal__btn--closed {
+    background-color: var(--color-gray-dark-3);
+    color: var(--color-gray-Ofcourse-1);
+    width: 35px;
+    height: 30px;
+    margin-left: 440px;
+    margin-top: -125px;    border: 8px;
+    border-radius: 2px;
+}
+
+
+.modal__btn--press {
+    align-items: center;
+    margin-top: -2px;
+    font-size: 25px;
+ }
+ 
+
+ .modal__parag {
+    text-align: left;
+    color: var(--color-gray-Ofcourse-2);
+    margin: 25px;
+    margin-top: -150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: var(--font-weight-text-1);
+    line-height: var(--line-height-text-3);       
+}
+
+
+.placeholder {
+    width: 450px;
+    height: 60px;
+    margin-left: 23px;
+    background-color: var(--color-grey-dark-1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: var(--font-weight-text-1);
+    font-size: 20px;
+    flex:none;
+    line-height: var(--line-height-text-3);
+    border: none;
+    text-indent: 3%; 
+    margin-top: -70px;  
+    color:var(--color-gray-Ofcourse-2);
+}
+
+
+::placeholder{
+  color: var(--color-gray-Ofcourse-2);
+}
+
+ 
+.modal__btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    margin-top: 50px;
+}
+
+
+.modal__btn--enviar {
+    display: flex;
+    width: 450px;
+    height: 60px;
+    margin-top: -100px;
+    background-color: var(--color-primary);
+    color: var(--color-gray-Ofcourse-3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: var(--font-weight-text-1);
+    font-size: var( --font-size-text-3);
+    line-height: var(--line-height-text-3);
+    border: none;
+}

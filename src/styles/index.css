@@ -1,0 +1,184 @@
+header {
+    padding: 20px 236px;
+    gap: 771px;
+    position: fixed;
+    width: 100vw;
+    height: 100px;
+    left: 0px;
+    top: 0px;    
+}
+
+
+ul {
+    gap: 55px;
+    list-style: none;
+    width: 746px;
+    height: 840px;
+    margin-left: -50px;
+    margin-top: -15px;
+    flex: none;
+}
+
+
+li {
+    width: 746px;
+    height: 135px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding: 50px;
+    margin-top: -35px;
+}
+
+
+footer {
+    width: 100vw;
+    height: 150px;   
+}
+
+
+.logo {
+    width: 200px;
+    height: 20.8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.section1 {
+    padding: 100px 236px;
+    gap: 169px;  
+    width: 100vw;
+    height: 1175px;
+    left: 0px;
+    top: 1151px;
+}
+
+
+.section2 {
+    padding: 100px 236px;
+    gap: 24px;
+    width: 100vw;
+    height: 1040px;
+    left: 0px;
+    top: 2326px;
+}
+
+
+.div1 {
+    padding: 250px 236px;
+    gap: 44px;
+    width: 100vw;
+    height: 781px;
+    left: 0px;
+    top: 100px;
+}
+
+.div2 {
+    width: 100vw;
+    height: 284px;
+    top: 881px;
+}
+
+
+.div3 {
+    width: 473px;
+    height: 271px;  
+}
+
+
+.div4 {
+    padding: 0px;
+    gap: 60px;
+    width: 614px;
+    height: 968px;   
+}
+
+
+.div5 {
+    width: 746px;
+    height: 840px;
+}
+
+
+.div6 {
+    padding: 80px 52px;
+    width: 446px;
+    height: 420px;    
+}
+
+
+.h1_title1 {
+    width: 1085px;
+    height: 73px;
+    text-align: center;
+    flex: none;
+}
+
+
+.h2_title2 {    
+    margin-left: 280px;
+}
+
+
+.h2_title3 {
+    width: 379px;
+    height: 64px;
+    flex: none;    
+}
+
+.h2_title6 {
+   margin-bottom: 20px;
+}
+
+.h3_title4 {
+    margin-right: 100px;
+    padding: 30px;
+}
+
+.h3_title5 {
+   margin-top: 30px;
+}
+
+
+.text {
+    width: 800px;
+    text-align: center;  
+}
+
+
+.text1 {
+    width: 600px;    
+    text-align: left;
+    margin-right: 280px;
+}
+
+
+ .text7 {  
+   padding-top: 0px;
+   margin-right: 10px;
+}  
+
+
+.span2 {
+    width: 133px;
+    height: 60px;
+    border: none;  
+}
+
+
+.span3 {
+    width: 241px;
+    height: 60px;
+    text-align: center;
+    margin-top: 45px;
+    border: 1px solid;
+}
+
+
+.span4 {
+    text-align: center;
+    width: 614px;
+    height: 197px;  
+    padding-top: 20px;
+}
